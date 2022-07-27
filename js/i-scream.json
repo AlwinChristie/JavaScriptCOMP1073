@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Butterscotch Ripple",
+      "calories": 475,
+      "type": "custard base",
+      "ingredients": [
+        "usalted butter",
+        "milk chocolate dip",
+        "vanilla extract"
+      ],
+      "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Cookies and Cream",
+      "calories": 375,
+      "type": "gelato",
+      "ingredients": [
+        "chopped oreos",
+        "milk heavy cream",
+        "vanilla extract"
+      ],
+      "image": "strawberry-sprinkle.svg"
     }
   ]
 }
