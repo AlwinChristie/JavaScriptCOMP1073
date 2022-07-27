@@ -33,7 +33,7 @@ section {
 	margin-bottom: 5rem;
 }
 section article {
-	width: 100%;
+	min-width: 10%;
 	border: 1px solid black;
 	box-shadow: 0 2px 14px grey;
 	padding: 2%;
